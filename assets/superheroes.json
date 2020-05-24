@@ -1,0 +1,203 @@
+[
+
+    {
+        "img": "https://sm.ign.com/ign_es/screenshot/b/b1-spider-/b1-spider-man-2bbrbrupon-its-release-spider-man-2-became-the_4k9z.jpg",
+        "superheroe": "Spider-man",
+        "identidad": "Peter Benjamin Parker",
+        "edad": "58 años",
+        "altura": "1.78 metros",
+        "genero": "Masculino",
+        "descripcion": "Spider-Man (llamado Hombre Araña en muchas de las traducciones al español) es un superhéroe ficticio creado por los escritores y editores Stan Lee y Steve Ditko. Aparece en los cómics estadounidenses publicados por Marvel Comics, así como en varias películas, programas de televisión y adaptaciones de videojuegos ambientadas en el Universo Marvel"
+    },
+
+    {
+        "img": "https://dam.smashmexico.com.mx/wp-content/uploads/2019/09/base_smash_capitan_america_Mjolnir--770x502.jpg",
+        "superheroe": "Capitán América",
+        "identidad": "Steven Grant Rogers",
+        "edad": "27 años",
+        "altura": "1.64 metros",
+        "genero": "Masculino",
+        "descripcion": "Capitán América cuyo nombre real es Steven Steve Rogers, es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics."
+    },
+    
+    {
+        "img": "https://de10.com.mx/sites/default/files/styles/detalle_nota/public/2019/08/08/thor_love_and_thunder_que_sabemos_p.jpg?itok=mko2m1zw",
+        "superheroe": "Thor",
+        "identidad": "Thor Odinson",
+        "edad": "58 años",
+        "altura": "1.90 metros",
+        "genero": "Masculino",
+        "descripcion": "Thor es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. El personaje, que se basa en la deidad nórdica del mismo nombre, es el dios del trueno asgardiano poseedor del martillo encantado, Mjolnir, que le otorga la capacidad de volar y manipular el clima entre sus otros atributos sobrehumanos."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/mugen-base-de-datos/images/f/f3/MUA3_Hulk.png/revision/latest?cb=20190830215815&path-prefix=es",
+        "superheroe": "Hulk",
+        "identidad": "Robert Bruce Banner",
+        "edad": "58 años",
+        "altura": "1.73 metros",
+        "genero": "Masculino",
+        "descripcion": "Hulk es un personaje ficticio, un superhéroe que aparece en los cómics estadounidenses publicados por la editorial Marvel Comics."
+    },
+
+    {
+        "img": "https://img.europapress.es/fotoweb/fotonoticia_20161105173040_420.jpg?_ga=2.133470923.47732482.1589855546-1689894958.1589855546",
+        "superheroe": "Doctor Strange",
+        "identidad": "Stephen Strange",
+        "edad": "57 años",
+        "altura": "1.89 metros",
+        "genero": "Masculino",
+        "descripcion": "El doctor Stephen Vincent Strange es un superhéroe y cirujano ficticio que aparece en cómics estadounidenses publicados por Marvel Comics. "
+    },
+
+    {
+        "img": "https://media.metrolatam.com/2019/11/27/thanos-45013c64755d1eba43cb64b0a6640df3-1200x600.jpg",
+        "superheroe": "Thanos",
+        "identidad": "Thanos The Titan",
+        "edad": "47 años",
+        "altura": "2.60 metros",
+        "genero": "Masculino",
+        "descripcion": "Thanos es un supervillano ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics"
+    },
+
+    {
+        "img": "https://www.pngkit.com/png/full/319-3191210_damian-wayne-render-super-sons-jorge-jimenez-covers.png",
+        "superheroe": "Robin",
+        "identidad": "Damian Wayne",
+        "edad": "13 años",
+        "altura": "1.58 metros",
+        "genero": "masculino",
+        "descripcion": "Damian Wayne, es un personaje de ficción creado por DC Comics dentro del mundo del justiciero enmascarado llamado Batman. Damian es hijo biológico de Talia al Ghul y Bruce Wayne. Fue creado por Grant Morrison y apareció por primera vez en Batman N.º 655."
+    },
+
+    {
+        "img": "https://depor.com/resizer/JNHBg8XDO7aSUDxXIl0hkDpbKf8=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6SFQRSXQPRGZNJTZBI4BXHOLU4.jpg",
+        "superheroe": "Bruja Escarlata",
+        "identidad": "Wanda Maximoff",
+        "edad": "56 años",
+        "altura": "1.70 metros",
+        "genero": "Femenino",
+        "descripcion": "La Bruja Escarlata es una superheroína ficticia que aparece en los cómics publicados por Marvel Comics."
+    },
+
+    
+    {
+        "img": "https://i2.wp.com/wipy.tv/wp-content/uploads/2020/01/este-comic-podria-ser-la-respuesta-para-mpiderman-del-mcu-17.jpg?w=1000&ssl=1",
+        "superheroe": "Iron-Man",
+        "identidad": "Anthony Edward Stark",
+        "edad": "49 años",
+        "altura": "1.74 metros",
+        "genero": "Femenino",
+        "descripcion": "Iron Man es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics"
+    },
+
+    {
+        "img": "https://noticiassin.com/wp-content/uploads/2018/07/ROJOYYY.jpg",
+        "superheroe": "Superman",
+        "identidad": "Clark Kent",
+        "edad": "30 años",
+        "altura": "1.86 metros",
+        "genero": "Masculino",
+        "descripcion": "Superman (cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent) es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics."
+    },
+
+    {
+        "img": "https://i.blogs.es/e48d8f/wonder-woman-2-confirmada-y-con-fecha/1366_2000.jpg",
+        "superheroe": "Wonder Woman",
+        "identidad": "Diana de Temiscira",
+        "edad": "79 años",
+        "altura": "1.80 metros",
+        "genero": "Femenino",
+        "descripcion": "Diana, hija de dioses y princesa de las amazonas, nunca ha salido de su isla. Un día, en el contexto de la Primera Guerra Mundial, un piloto americano se estrella en su isla y Diana salva su vida; el piloto le explica que se está desarrollando una gran guerra que puede devastar el mundo, y Diana parte a la batalla."
+    },
+
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Deadpool%2C_Georgia_Viaduct%2C_Vancouver%2C_April_6_2015_-_3.jpg",
+        "superheroe": "Deadpool",
+        "identidad": "Wade Winston Wilson",
+        "edad": "29 años",
+        "altura": "1.88 metros",
+        "genero": "Masculino",
+        "descripcion": "Deadpool es un personaje ficticio, mercenario, supervillano y antihéroe,que aparece en los cómics publicados por Marvel Comics. "
+    },
+
+    {
+        "img": "http://3.bp.blogspot.com/-J3Nu_eO822Q/VeN4JdZWhlI/AAAAAAAAApA/Q93hOSe0c3k/s1600/826368-85694_1899.jpg",
+        "superheroe": "Bala de Cañón",
+        "identidad": "Samuel Zachary Guthrie",
+        "edad": "38 años",
+        "altura": "1.83 metros",
+        "genero": "Masculino",
+        "descripcion": "Bala de Cañón es un superhéroe de Marvel Comics, asociado con los X-Men. "
+    },
+
+    {
+        "img": "https://www.latercera.com/resizer/o_bXdk1UTxF3B3C5cDQtZlgl4Fw=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/VHCHS6W6ERATPELXSXWSUFINZA.jpg",
+        "superheroe": "Flash",
+        "identidad": "Barry Allen",
+        "edad": "25 años",
+        "altura": "1.87 metros",
+        "genero": "Masculino",
+        "descripcion": "Nueve meses después de que el laboratorio S.T.A.R. explotara, Barry despierta del coma y descubre que tiene el poder de la súper velocidad. Con la ayuda de su nuevo equipo, Barry, denominado ahora `Flash', luchará contra el crimen en Ciudad Central."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/marveldatabase/images/c/c9/Jessica_Jones_%28Earth-616%29_from_Alias_Vol_1_25.jpg/revision/latest?cb=20170209070153",
+        "superheroe": "Jessica Jones",
+        "identidad": "Jessica Campbell Jones Cage",
+        "edad": "19 años",
+        "altura": "1.52 metros",
+        "genero": "Femenino",
+        "descripcion": "Jessica Campbell Jones​ es una superheroína ficticia que aparece en los cómics estadounidenses publicados por Marvel Comics."
+    },
+
+    {
+        "img": "http://assets.stickpng.com/images/584fbcbf6a5ae41a83ddee72.png",
+        "superheroe": "Marta Plateada",
+        "identidad": "Silveria Sablinova",
+        "edad": "35 años",
+        "altura": "1.63 metros",
+        "genero": "Femenino",
+        "descripcion": "Silver Sable, también llamada Marta Plateada o Sable de Plata, es un personaje ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. ​ "
+    },
+
+    {
+        "img": "https://www.tierragamer.com/wp-content/uploads/2019/02/Aquaman-Mayor-Recaudacio%CC%81n-660x400.jpg",
+        "superheroe": "Aquaman",
+        "identidad": "Arthur Curry",
+        "edad": "38 años",
+        "altura": "1.94 metros",
+        "genero": "Masculino",
+        "descripcion": "Aquaman (Arthur Curry) es un superhéroe que aparece en los cómics estadounidenses publicados por DC Comics."
+    },
+
+    {
+        "img": "https://i.pinimg.com/564x/b7/c5/b2/b7c5b2ea05ade5d09990615390eb9768.jpg",
+        "superheroe": "Daken",
+        "identidad": "Akihiro",
+        "edad": "19 años",
+        "altura": "1.75 metros",
+        "genero": "Masculino",
+        "descripcion": "Daken es un personaje ficticio del universo Marvel. Daken es el mutante hijo de Wolverine protagonista de la serie X-Men— y su fallecida esposa Itsu."
+    },
+
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Gamora-cover.jpg",
+        "superheroe": "Gamora",
+        "identidad": "Gamora Zen Whoberi Ben Titan",
+        "edad": "45 años",
+        "altura": "1.80 metros",
+        "genero": "Femenino",
+        "descripcion": "Gamora Zen Whoberi Ben Titan es una superheroína ficticia que aparece en los cómics estadounidenses publicados por Marvel Comics."
+    },
+
+    {
+        "img": "https://i.pinimg.com/564x/43/93/4d/43934d32ffc0bce0a387f22a5177a516.jpg",
+        "superheroe": "Storm (Tormenta)",
+        "identidad": "Ororo Iqadi Munroe",
+        "edad": "45 años",
+        "altura": "1.81 metros",
+        "genero": "Femenino",
+        "descripcion": "Tormenta, alias de Ororo Iqadi Munroe, es una superheroína ficticia de la editorial estadounidense Marvel Comics."
+    }
+]
